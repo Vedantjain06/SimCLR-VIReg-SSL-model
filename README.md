@@ -1,6 +1,3 @@
-Here's a basic README structure for your project:
-
----
 
 # Time Series Classification Using Self-Supervised Learning
 
